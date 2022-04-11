@@ -4,15 +4,9 @@
   Hey! i'm Alifer. Im a <strong>Back-end Developer</strong>.<br>
   Currently studying development in NodeJs and Typescript.
 </p>
-
-<div align="center">
-  <a href="https://github.com/lockcrowley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lockcrowley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockcrowley&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
  
 <div style="display: inline_block"><br>
-  <h4>🖥️ Programming language</h4>
+  <h4>🖥️ Programming languages:</h4>
   <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,9 +16,22 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  
+  
 <p align="left">
-  🔨 Tools: <strong>Pycharm, Visual studio code, Postman, insomnia, PostgreSQL, Github.</strong>
+  🔨 Tools: <strong>Visual studio code, Postman, insomnia, PostgreSQL, MongoDB, Github.</strong>
 </p>
+
+
+<p align="left">
+  <a href="mailto:aliferass@hotmail.com.br" alt="Outook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/alifer-santana-68a3b6169/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+ 
+</p>  
 
 
 <!--
