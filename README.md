@@ -10,7 +10,7 @@ Sou um desenvolvedor Back-end.
 </div> 
  
 <div style="display: inline_block"><br>
-  <h3>As tecnologias que estou estudando no momento são:</h3>
+  <h3>As tecnologias que uso são:</h3>
   <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,6 +19,10 @@ Sou um desenvolvedor Back-end.
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+  
+<p align="left">
+  🔨 Tools: <strong>Pycharm, Visual studio code, Postman, insomnia, PostgreSQL, Github.</strong>
+</p>
 
 
 <!--
