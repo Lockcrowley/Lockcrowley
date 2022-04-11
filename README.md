@@ -5,7 +5,7 @@
   Currently studying development in NodeJs and Typescript.
 </p>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h4>🖥️ Programming languages:</h4>
   <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
